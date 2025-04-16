@@ -1,10 +1,13 @@
 # Kaomoji Title Bar for Emacs ✨
 
+![demo](https://github.com/ShaoChenHeng/kaomoji-title-bar/blob/main/screenshot/demo.png)
+
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Emacs Version](https://img.shields.io/badge/Emacs-26.1%2B-brightgreen)
 ![GitHub Stars](https://img.shields.io/github/stars/shaochenheng/kaomoji-title-bar?style=social)
 
 Dynamic Kaomoji Title Bar - Bring your Emacs frame title to life!
+
 Currently includes 8 animated styles:
 
 - happy: ✧(≖◡≖✿)
@@ -15,8 +18,6 @@ Currently includes 8 animated styles:
 - boat: ⊹ ࣪ ˖‿˖‿𓂁‿⊹‿𓂁‿⊹𓊝
 - oneday: ﾟ ｡ ⋆⋆｡ ﾟ ☁︎｡ ⋆｡ ﾟ ☀︎
 - moon: ⁺₊⋆ ☁︎ ⋆⁺₊⋆ ☾ ⋆
-
-![demo](https://github.com/shaochenheng/kaomoji-title-bar/screenshot/demo.png)
 
 ## ✨ Features
 

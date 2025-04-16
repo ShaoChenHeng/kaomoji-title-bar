@@ -18,9 +18,6 @@
 - oneday: ﾟ ｡ ⋆⋆｡ ﾟ ☁︎｡ ⋆｡ ﾟ ☀︎
 - moon: ⁺₊⋆ ☁︎ ⋆⁺₊⋆ ☾ ⋆
 
-
-![demo](https://github.com/shaochenheng/kaomoji-title-bar/screenshot/demo.png) 
-
 ## ✨ 特性
 
 - 支持8种动画风
